@@ -1,4 +1,4 @@
-# Inventory-and-FInance-Management-System
+# Inventory-and-Finance-Management-System
 Software Engineering Project
 
 
