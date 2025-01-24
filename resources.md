@@ -1,10 +1,10 @@
-Language used
-
+**Language used
+**
 Python
 
 
-Libraries used
+**Libraries used**
 
 Pyside6
 
-Resources
+**Resources**
