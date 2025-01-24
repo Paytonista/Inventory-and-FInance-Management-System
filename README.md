@@ -4,7 +4,7 @@ Software Engineering Project
 
 Group 5
 
-Kenneth C. Rabina
+Kenneth C. Rabina/n
 Kian Antones
 Alexander Maisog
 Gian Gatchalian
